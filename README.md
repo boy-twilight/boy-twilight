@@ -9,7 +9,7 @@
   <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=arrive-Lee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
   <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrive-Lee&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 
-### 联系我：
+#### 联系我：
 
 - gitee：https://gitee.com/chart-twilight
 - Email：2429162154@qq.com
