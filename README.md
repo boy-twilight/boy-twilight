@@ -1,4 +1,4 @@
-### hello，everyone I’m twilight
+### hello，everyone. I’m twilight
 
 # An optimistic and enthusiastic front-end engineer
 
@@ -23,7 +23,6 @@
 <code><img height="20" src="./img/Css.png" title="Html" /></code>
 <code><img height="20" src="./img/JavaScript.png" title="Html" /></code>
 <code><img height="20" src="./img/Less.png" title="Html" /></code>
-<code><img height="20" src="./img/React.png" title="Html" /></code>
 <code><img height="20" src="./img/Typescript.png" title="Html" /></code>
 <code><img height="20" src="./img/Vue.png" title="Html" /></code>
 <code><img height="20" src="./img/Vite.png" title="Html" /></code>
@@ -39,4 +38,3 @@
 #### 开发工具
 
 <code><img height="20" src="./img/Vscode.png" title="Html" /></code>
-<code><img height="20" src="./img/Webstorm.png" title="Html" /></code>
